@@ -1,0 +1,7 @@
+2023-08-06 03:45:10.763771 - Initialized conversion of CBT378
+2023-08-06 03:45:10.804585 - Received CBT.V505.FILE378.PDS from FILE378.XMI 
+2023-08-06 03:45:10.806980 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE378.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:45:10.808020 - Found $$$MSG.txt (text/plain) in CBT.V505.FILE378.PDS, moved to PDS/$$$MSG
+2023-08-06 03:45:10.809102 - Found $STRKDOC.txt (text/plain) in CBT.V505.FILE378.PDS, moved to PDS/$STRKDOC
+2023-08-06 03:45:10.810013 - Found @FILE378.txt (text/plain) in CBT.V505.FILE378.PDS, moved to PDS/@FILE378
+2023-08-06 03:45:10.810964 - Found SORTTRAK.jcl (text/plain) in CBT.V505.FILE378.PDS, moved to PDS/SORTTRAK
