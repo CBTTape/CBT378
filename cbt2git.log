@@ -1,6 +1,6 @@
-2025-04-15 01:56:44.932535 - Received CBT.V508.FILE378.PDS from FILE378.XMI 
-2025-04-15 01:56:44.933647 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE378.PDS, moved to PDS/$$$#DATE
-2025-04-15 01:56:44.933827 - Found $$$MSG.txt (text/plain) in CBT.V508.FILE378.PDS, moved to PDS/$$$MSG
-2025-04-15 01:56:44.933998 - Found $STRKDOC.txt (text/plain) in CBT.V508.FILE378.PDS, moved to PDS/$STRKDOC
-2025-04-15 01:56:44.934303 - Found @FILE378.txt (text/plain) in CBT.V508.FILE378.PDS, moved to PDS/@FILE378
-2025-04-15 01:56:44.934871 - Found SORTTRAK.jcl (text/plain) in CBT.V508.FILE378.PDS, moved to PDS/SORTTRAK
+2025-04-15 20:46:16.762654 - Received CBT.V508.FILE378.PDS from FILE378.XMI 
+2025-04-15 20:46:16.763809 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE378.PDS, moved to PDS/$$$#DATE
+2025-04-15 20:46:16.764049 - Found $$$MSG.txt (text/plain) in CBT.V508.FILE378.PDS, moved to PDS/$$$MSG
+2025-04-15 20:46:16.764282 - Found $STRKDOC.txt (text/plain) in CBT.V508.FILE378.PDS, moved to PDS/$STRKDOC
+2025-04-15 20:46:16.764344 - Found @FILE378.txt (text/plain) in CBT.V508.FILE378.PDS, moved to PDS/@FILE378
+2025-04-15 20:46:16.765090 - Found SORTTRAK.jcl (text/plain) in CBT.V508.FILE378.PDS, moved to PDS/SORTTRAK
